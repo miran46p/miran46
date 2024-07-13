@@ -1,6 +1,3 @@
-            
-
-```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -10,7 +7,7 @@
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <style>
-        @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900&display=swap');
+        @import url('https://wallpapercave.com/wp/wp12764597.jpgp');
         *{
             font-family: "Poppins", sans-serif;
         }
@@ -18,7 +15,7 @@
             height: 440px;
             width: 440px;
         }
-    </style>
+        </style>
 </head>
 <body>
     <!-- Navbar Start -->
@@ -50,7 +47,7 @@
     <div class="h-full bg-rose-500 pt-16 pb-16 px-28 flex place-content-between">
         <div>
             <div class="mt-36">
-                <h2 class="text-gray-50 text-5xl font-light capitalize">Hi, I'm a front-end</h2>
+                <h2  class="text-gray-50 text-5xl font-light capitalize">Hi, i'm a front-end</h2>
                 <h1 class="text-gray-100 text-6xl font-bold capitalize mt-6">Web Developer</h1>
                 <p class="text-gray-50 text-xl mt-4">lives in Dhaka, Bangladesh.</p>
             </div>
@@ -60,7 +57,8 @@
             </div>
         </div>
         <div class="mt-16">
-            <img src="https://scontent.fdac24-5.fna.fbcdn.net/v/t39.30808-6/293301502_1238596496912927_6187896910423254112_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=dtqD3taCK8MQ7kNvgFg3dgW&_nc_ht=scontent.fdac24-5.fna&oh=00_AYD1q0QSe_aeNmYoG1TN0YTXMV6YJkie7_lJObIL0aNpjg&oe=66988035" alt="Samrat Ahmed" class="profile rounded-full bg-white p-4 shadow-lg shadow-gray-400">
+            <img src="https://scontent.fdac24-5.fna.fbcdn.net/v/t39.30808-6/293301502_1238596496912927_6187896910423254112_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=dtqD3taCK8MQ7kNvgFg3dgW&_nc_ht=scontent.fdac24-5.fna&oh=00_AYD1q0QSe_aeNmYoG1TN0YTXMV6YJkie7_lJObIL0aNpjg&oe=66988035"
+                alt="Samrat Ahmed" class="profile rounded-full bg-white p-4 shadow-lg shadow-gray-400">
         </div>
     </div>
     <!-- Page-1 End -->
@@ -112,60 +110,194 @@
 
         <!-- Heading Part Start-->
         <div class="flex items-center justify-center mt-20"><p class="text-center bg-rose-500 px-3 py-.5">What I Do?</p></div>
-  
+        <h1 class="text-center text-4xl mt-4 font-semibold">How I can help your next project</h1>
+        <!-- Heading Part End -->
 
-```html
-<!-- Page-3 Start -->
-<div class="h-full bg-slate-100 px-28 pt-1 pb-28">
-    <!-- Heading Part Start-->
-    <div class="flex items-center justify-center mt-20">
-        <p class="text-center bg-rose-500 px-3 py-.5">What I Do?</p>
-    </div>
-    <h1 class="text-center text-4xl mt-4 font-semibold">How I can help your next project</h1>
-    <!-- Heading Part End -->
+        <!-- First 3 Services Start -->
+        <div class="flex place-content-between mt-16">
+            <div>
+                <i class="fa-solid fa-palette text-5xl ml-36 mb-4 text-rose-500"></i>
+                <h1 class="text-2xl font-medium text-center mb-2">Graphic Design</h1>
+                <p class="text-md text-center max-w-80 font-normal text-slate-900">I have experience in graphic design using Canva, creating visually appealing designs and layouts for various projects.</p>
+            </div>
+            <div>
+                <i class="fa-solid fa-desktop text-5xl mb-4 text-rose-500 ml-32"></i>
+                <h1 class="text-2xl font-medium text-center mb-2">Web Design</h1>
+                <p class="text-md text-center max-w-80 font-normal text-slate-900">I am a front-end developer with experience in HTML, CSS, and Tailwind CSS. Additionally, I have a background in graphic design using Canva, which complements my web design skills.</p>
+            </div>
+            <div>
+                <i class="fa-solid fa-code text-5xl mb-4 text-rose-500 ml-32"></i>
+                <h1 class="text-2xl font-medium text-center mb-2">Web Development</h1>
+                <p class="text-md text-center max-w-80 font-normal text-slate-900">I am a budding front-end developer with experience in HTML, CSS, and Tailwind CSS, complemented by a background in graphic design using Canva.</p>
+            </div>
+        </div>
+        <!-- First 3 Services End -->
 
-    <!-- First 3 Services Start -->
-    <div class="flex place-content-between mt-16">
-        <div>
-            <i class="fa-solid fa-palette text-5xl ml-36 mb-4 text-rose-500"></i>
-            <h1 class="text-2xl font-medium text-center mb-2">Graphic Design</h1>
-            <p class="text-md text-center max-w-80 font-normal text-slate-900">I have experience in graphic design using Canva, creating visually appealing designs and layouts for various projects.</p>
-        </div>
-        <div>
-            <i class="fa-solid fa-desktop text-5xl mb-4 text-rose-500 ml-32"></i>
-            <h1 class="text-2xl font-medium text-center mb-2">Web Development</h1>
-            <p class="text-md text-center max-w-80 font-normal text-slate-900">As a front-end developer, I build responsive and user-friendly websites using HTML, CSS, Tailwind CSS, and JavaScript.</p>
-        </div>
-        <div>
-            <i class="fa-solid fa-code text-5xl mb-4 text-rose-500 ml-32"></i>
-            <h1 class="text-2xl font-medium text-center mb-2">JavaScript Programming</h1>
-            <p class="text-md text-center max-w-80 font-normal text-slate-900">I am proficient in JavaScript, enhancing web functionality and user interactivity to create dynamic web applications.</p>
-        </div>
-    </div>
-    <!-- First 3 Services End -->
-
-    <!-- Second 3 Services Start -->
-    <div class="flex place-content-between mt-16">
-        <div>
-            <i class="fa-solid fa-mobile-alt text-5xl ml-36 mb-4 text-rose-500"></i>
-            <h1 class="text-2xl font-medium text-center mb-2">Mobile Responsive Design</h1>
-            <p class="text-md text-center max-w-80 font-normal text-slate-900">I ensure that all websites are mobile-friendly and optimized for different screen sizes and devices.</p>
-        </div>
-        <div>
-            <i class="fa-solid fa-puzzle-piece text-5xl mb-4 text-rose-500 ml-32"></i>
-            <h1 class="text-2xl font-medium text-center mb-2">Problem Solving</h1>
-            <p class="text-md text-center max-w-80 font-normal text-slate-900">I enjoy tackling complex problems and finding effective solutions through coding and design.</p>
-        </div>
-        <div>
-            <i class="fa-solid fa-lightbulb text-5xl mb-4 text-rose-500 ml-32"></i>
-            <h1 class="text-2xl font-medium text-center mb-2">Creative Ideas</h1>
-            <p class="text-md text-center max-w-80 font-normal text-slate-900">I bring innovative ideas to the table, ensuring unique and engaging user experiences.</p>
+        <!-- Second 3 Services Start -->
+        <div class="flex place-content-between mt-24">
+            <div>
+                <i class="fa-solid fa-paintbrush text-5xl text-rose-500 ml-32 mb-4"></i>
+                <h1 class="text-2xl font-medium text-center mb-2">Brand Identity</h1>
+                <p class="text-md text-center max-w-80 font-normal text-slate-900">I specialize in crafting cohesive brand identities through front-end development and graphic design, utilizing HTML, CSS, Tailwind CSS, and Canva.</p>
+            </div>
+            <div>
+                <i class="fa-solid fa-square-poll-vertical text-5xl text-rose-500 ml-32 mb-4"></i>
+                <h1 class="text-2xl font-medium text-center mb-2">Business Analysis</h1>
+                <p class="text-md text-center max-w-80 font-normal text-slate-900">I bring expertise in Business Analysis, specializing in requirement gathering, process analysis, and stakeholder collaboration to drive effective solutions.</p>
+            </div>
+            <div>
+                <i class="fa-solid fa-bullhorn text-5xl text-rose-500 ml-32 mb-4"></i>
+                <h1 class="text-2xl font-medium text-center mb-2">Digital Marketing</h1>
+                <p class="text-md text-center max-w-80 font-normal text-slate-900">I have some experience in Digital Marketing, including basic knowledge of SEO, social media management, and content creation.</p>
+            </div>
         </div>
     </div>
     <!-- Second 3 Services End -->
-</div>
-<!-- Page-3 End -->
+    <!-- Page-3 End -->
 
+    <!-- Page-4 Start -->
+    <div class="h-full px-28 pb-20">
+        
+        <!-- Heading Part Start-->
+        <div class="flex items-center justify-center mt-20"><p class="text-center bg-rose-500 px-3 py-.5">Resume</p></div>
+        <h1 class="text-center text-4xl mt-4 font-semibold">A summary of My Resume</h1>
+        <!-- Heading Part End -->
+
+        <!-- Div Start -->
+        <div class="flex mt-24">
+
+            <!-- Div-Left Start-->
+             <div class="w-1/2">
+                <h1 class="text-3xl font-semibold mb-10">My Education</h1>
+                    <div class="border-l-2 border-rose-600">                       
+                        <div class="ml-4 pb-6 border-b-2 border-slate-200 mb-4">
+                            <h1 class="text-xl font-medium mb-4">Master in Computer Engineering</h1>
+                            <p class="mb-4 text-slate-600">Harvard University / 2028 - 2030</p>
+                            <p class="text-slate-600">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the dummy text.</p>
+                        </div>
+                        <div class="ml-4 pb-6 border-b-2 border-slate-200 mb-4">
+                            <h1 class="text-xl font-medium mb-4">Bachelor in Computer Engineering</h1>
+                            <p class="mb-4 text-slate-600">American International University / 2024-2028</p>
+                            <p class="text-slate-600">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the dummy text.</p>
+                        </div>
+                        <div class="ml-4">
+                            <h1 class="text-xl font-medium mb-4">Computer Science</h1>
+                            <p class="mb-4 text-slate-600">American International University / 2024-2028</p>
+                            <p class="text-slate-600">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the dummy text.</p>
+                        </div>
+                    </div>                   
+             </div>
+            <!-- Div-Left End -->
+
+            <!--Div-Right Start  -->
+            <div class="w-1/2 ml-10">
+                <h1 class="text-3xl font-semibold mb-10">My Experience</h1>
+                <div class="border-l-2 border-rose-600">                       
+                    <div class="ml-4 pb-6 border-b-2 border-slate-200 mb-4">
+                        <h1 class="text-xl font-medium mb-4">Sr. Font End Developer</h1>
+                        <p class="mb-4 text-slate-600">Harvard University / 2028 - 2030</p>
+                        <p class="text-slate-600">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the dummy text.</p>
+                    </div>
+                    <div class="ml-4 pb-6 border-b-2 border-slate-200 mb-4">
+                        <h1 class="text-xl font-medium mb-4">Jr. Font End Developer</h1>
+                        <p class="mb-4 text-slate-600">Dribbble Inc / 2024 - 2026</p>
+                        <p class="text-slate-600">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the dummy text.</p>
+                    </div>
+                    <div class="ml-4">
+                        <h1 class="text-xl font-medium mb-4">HTML Developer</h1>
+                        <p class="mb-4 text-slate-600">Adobe Inc / 2022 - 2024</p>
+                        <p class="text-slate-600">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the dummy text.</p>
+                    </div>
+                </div>
+            </div>
+            <!-- Div-Right End -->
+        </div>
+        <!-- Div End -->
+
+        <!-- Skills Chart Start -->
+        <h1 class="text-3xl font-semibold mt-16 mb-10">My Skills</h1>
+        <div class="flex place-content-between">
+            <div class="w-5/12">
+                <div class="mb-4 flex place-content-between">
+                    <h1 class="font-medium">Web Design</h1>
+                    <p class="font-medium">50%</p>
+                </div>
+                <div class="h-2 bg-slate-300 rounded-xl">
+                    <div class="h-2 w-1/2 bg-rose-500 rounded-xl"></div>
+                </div>
+            </div>
+            <div class="w-5/12">
+                <div class="mb-4 flex place-content-between">
+                    <h1 class="font-medium">HTML</h1>
+                    <p class="font-medium">75%</p>
+                </div>
+                <div class="h-2 bg-slate-300 rounded-xl">
+                    <div class="h-2 w-3/4 bg-rose-500 rounded-xl"></div>
+                </div>
+            </div>
+        </div>
+        <div class="flex place-content-between mt-8">
+            <div class="w-5/12">
+                <div class="mb-4 flex place-content-between">
+                    <h1 class="font-medium">CSS</h1>
+                    <p class="font-medium">60%</p>
+                </div>
+                <div class="h-2 bg-slate-300 rounded-xl">
+                    <div class="h-2 w-3/5 bg-rose-500 rounded-xl"></div>
+                </div>
+            </div>
+            <div class="w-5/12">
+                <div class="mb-4 flex place-content-between">
+                    <h1 class="font-medium">Tailwind CSS</h1>
+                    <p class="font-medium">80%</p>
+                </div>
+                <div class="h-2 bg-slate-300 rounded-xl">
+                    <div class="h-2 w-4/5 bg-rose-500 rounded-xl"></div>
+                </div>
+            </div>
+        </div>
+        <div class="flex place-content-between mt-8">
+            <div class="w-5/12">
+                <div class="mb-4 flex place-content-between">
+                    <h1 class="font-medium">Web Development</h1>
+                    <p class="font-medium">65%</p>
+                </div>
+                <div class="h-2 bg-slate-300 rounded-xl">
+                    <div class="h-2 w-4/6 bg-rose-500 rounded-xl"></div>
+                </div>
+            </div>
+            <div class="w-5/12">
+                <div class="mb-4 flex place-content-between">
+                    <h1 class="font-medium">Digital Marketing</h1>
+                    <p class="font-medium">50%</p>
+                </div>
+                <div class="h-2 bg-slate-300 rounded-xl">
+                    <div class="h-2 w-1/2 bg-rose-500 rounded-xl"></div>
+                </div>
+            </div>
+        </div>
+        <!-- Skills Chart End -->
+
+        <div class="w-full flex justify-center">
+            <button class="mt-16 border-gray-900 border-2 hover:bg-gray-900 hover:text-white duration-200 ease-in px-10 py-4">Download CV</button>
+        </div>
+    </div>
+    <!-- Page-4 End -->
+
+    <!-- Parallax Start -->
+     <div style="background-image: url(Untitled\ design\ \(1\).jpg); background-size: cover;" class="h-96 bg-fixed py-32">
+        <h1 class="text-4xl text-white font-bold text-center">Interested in working with me?</h1>
+        <div class="flex justify-center">
+            <button class="mt-10 bg-rose-500 px-10 font-medium py-3 hover:ring-2 hover:ring-rose-500 hover:bg-inherit hover:text-white ease-in duration-150">Hire Me!</button>
+        </div>
+     </div>
+     <!-- Footer Start -->
+     <footer>
+        <div class="h-40 bg-zinc-900 flex items-center px-28 text-white place-content-between">
+            <h1>Copyright © 2024 <a href="#" class="text-rose-500 underline hover:no-underline">Samrat</a>. All Rights Reserved.</h1>
+            <h1>Designed by <a href="https://www.facebook.com/akib.anjum.5" class="text-rose-500 underline hover:no-underline">Samrat Ahmed</a></h1>
+        </div>
+     </footer>
+     <!-- Footer End -->
 </body>
 </html>
-```
